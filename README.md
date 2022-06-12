@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravpd" alt="souravpd" /></a> </p>
 
-- 💬 Ask me about **everything web**
-
-- 📫 How to reach me **souravpd@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
